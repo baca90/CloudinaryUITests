@@ -140,3 +140,5 @@ TestResult.xml
 UITestResults/
 
 *.testLog
+
+.vs/
