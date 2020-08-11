@@ -1,5 +1,4 @@
 ﻿using CloudinaryUITests.Core;
-using NUnit.Framework.Constraints;
 using OpenQA.Selenium;
 
 namespace CloudinaryUITests.Pages.POM

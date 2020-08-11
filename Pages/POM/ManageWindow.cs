@@ -1,9 +1,6 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using SeleniumExtras.WaitHelpers;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CloudinaryUITests.Pages.POM
 {

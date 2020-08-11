@@ -1,8 +1,4 @@
-﻿using CloudinaryUITests.Core;
-using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using OpenQA.Selenium;
 
 namespace CloudinaryUITests.Pages.POM
 {

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CloudinaryUITests.Core.Models
+﻿namespace CloudinaryUITests.Core.Models
 {
     public class TestSettingsModel
     {

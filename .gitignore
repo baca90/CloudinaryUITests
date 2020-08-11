@@ -137,4 +137,6 @@ TestResult.xml
 
 #Test results from UI Tests 
 
-UITestsResults/ 
+UITestResults/
+
+*.testLog
