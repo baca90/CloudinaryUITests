@@ -3,6 +3,7 @@
 1. Software requirements:
 - Visual Studio (Free Community Edition - https://visualstudio.microsoft.com/pl/thank-you-downloading-visual-studio/?sku=Community&rel=16#
 - GIT (https://git-scm.com/download/win)
+- Google Chrome 84 (64bit) 
 
 2. Installation
 
