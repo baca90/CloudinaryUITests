@@ -1,0 +1,11 @@
+{
+	"CLOUDINARY_CORE_SETTINGS":{
+		"URL":"https://cloudinary.com",
+		"OUTPUT_PATH":"UITestResults"
+	},
+	"CLOUDINARY_TEST_SETTINGS":{
+		"DEFAULT_EMAIL":"johnmichael.d5@litermssb.com",
+		"DEFAULT_USER":"John",
+		"DEFAULT_PASSWORD":"P@ssw0rd"
+	}
+}
