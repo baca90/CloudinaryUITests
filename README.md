@@ -13,5 +13,5 @@
 
 3. Running
 
-- Find Test Explorer window on the right side, click right mouse button on Test and click Run
+- Find Test Explorer (Top menu: Test -> Test Explorer or Ctrl + E, T), click right mouse button on Test and click Run
 
