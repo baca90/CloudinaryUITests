@@ -45,10 +45,9 @@ namespace CloudinaryUITests.Core
             //options.AddArgument("disable-extensions");
             options.AddAdditionalCapability("useAutomationExtension", true);
 
-            ChromeDriver driver = new ChromeDriver(Path.GetDirectoryName(Assembly
-                .GetExecutingAssembly().Location), options, new TimeSpan(0, 0, 60));
+            ChromeDriver driver = new ChromeDriver(Path.GetDirectoryName(MainConfig.solutionPath), options, new TimeSpan(0, 0, 60));
             driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(60);
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(25);
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
             driver.Manage().Cookies.DeleteAllCookies();
             return driver;
         }

@@ -17,7 +17,7 @@ namespace CloudinaryUITests.Pages
             commonDriver = driver;
             action = new Actions(commonDriver);
             javaScriptExecutor = (IJavaScriptExecutor)commonDriver;
-            commonWait = new WebDriverWait(commonDriver, TimeSpan.FromSeconds(15));
+            commonWait = new WebDriverWait(commonDriver, TimeSpan.FromSeconds(30));
         }
 
 
